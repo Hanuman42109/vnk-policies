@@ -13,8 +13,8 @@ Files:
 
 Recommended public URLs after GitHub Pages is enabled:
 
-- `https://hanuman42109.github.io/REPO_NAME/privacy.html`
-- `https://hanuman42109.github.io/REPO_NAME/terms.html`
-- `https://hanuman42109.github.io/REPO_NAME/refund-cancellation.html`
+- `https://hanuman42109.github.io/vnk-policies/privacy.html`
+- `https://hanuman42109.github.io/vnk-policies/terms.html`
+- `https://hanuman42109.github.io/vnk-policies/refund-cancellation.html`
 
 Use the Privacy Policy URL in Google Play Console. Keep these pages public and accessible without login.
