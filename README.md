@@ -17,9 +17,3 @@ Files:
 - Privacy Policy: https://hanuman42109.github.io/vnk-policies/privacy.html
 - Terms of Service: https://hanuman42109.github.io/vnk-policies/terms.html
 - Refund and Cancellation Policy: https://hanuman42109.github.io/vnk-policies/refund-cancellation.html
-
-## Play Console
-
-Use this URL for the Google Play Console Privacy Policy field:
-
-https://hanuman42109.github.io/vnk-policies/privacy.html
