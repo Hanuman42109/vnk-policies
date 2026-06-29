@@ -1,4 +1,4 @@
-# Vinukonda Kirana Policy Pages
+# KS Kirana Policy Pages
 
 Static public policy pages for GitHub Pages.
 
